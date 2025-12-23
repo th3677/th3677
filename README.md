@@ -75,7 +75,7 @@ Long-term, I aim to specialize in **securing large-scale cloud systems** and app
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Threat Intelligence Analysis (TTPs, Indicators) | <a href="https://github.com/th3677/threat-intel-notes">Threat Intelligence Notes</a> |
+| Threat Intelligence Analysis (TTPs, Indicators) | <a href="https://github.com/th3677/threat-intel">Threat Intelligence</a> |
 | Incident Response Documentation & Analysis | <a href="https://github.com/th3677/incident-response-playbooks">Incident Response Playbooks</a> |
 | Network Traffic Monitoring & Threat Detection | <a href="https://github.com/th3677/detection-lab">Detection Lab</a> |
 | SIEM Implementation & Log Analysis | <a href="https://github.com/th3677/detection-lab">Detection Lab</a> |
