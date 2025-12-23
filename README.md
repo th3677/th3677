@@ -75,13 +75,13 @@ Long-term, I aim to specialize in **securing large-scale cloud systems** and app
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Secure Cloud Architecture (VPC, SGs, WAF) | <a href="https://github.com/YOUR-USERNAME/secure-cloud-infra">Secure Cloud Infrastructure Lab</a> |
-| Infrastructure as Code (Terraform) | <a href="https://github.com/YOUR-USERNAME/secure-cloud-infra">Terraform Cloud Security Lab</a> |
-| SIEM Implementation & Log Analysis | <a href="https://github.com/YOUR-USERNAME/detection-lab">Detection Lab</a> |
-| Network Traffic Monitoring & Threat Detection | <a href="https://github.com/YOUR-USERNAME/detection-lab">Detection Lab</a> |
-| Threat Intelligence Analysis (TTPs, Indicators) | <a href="https://github.com/YOUR-USERNAME/threat-intel-notes">Threat Intelligence Notes</a> |
-| Incident Response Documentation & Analysis | <a href="https://github.com/YOUR-USERNAME/incident-response-playbooks">Incident Response Playbooks</a> |
-| Security Automation & Alert Triage | <a href="https://github.com/YOUR-USERNAME/soc-automation-lab">SOC Automation Lab</a> |
+| Network Traffic Monitoring & Threat Detection | <a href="https://github.com/th3677/detection-lab">Detection Lab</a> |
+| Threat Intelligence Analysis (TTPs, Indicators) | <a href="https://github.com/th3677/threat-intel-notes">Threat Intelligence Notes</a> |
+| Incident Response Documentation & Analysis | <a href="https://github.com/th3677/incident-response-playbooks">Incident Response Playbooks</a> |
+| SIEM Implementation & Log Analysis | <a href="https://github.com/th3677/detection-lab">Detection Lab</a> |
+| Security Automation & Alert Triage | <a href="https://github.com/th3677/soc-automation-lab">SOC Automation Lab</a> |
+| Infrastructure as Code (Terraform) | <a href="https://github.com/th3677/secure-cloud-infra">Terraform Cloud Security Lab</a> |
+| Secure Cloud Architecture (VPC, SGs, WAF) | <a href="https://github.com/th3677/secure-cloud-infra">Secure Cloud Infrastructure Lab</a> |
 
 ---
 
