@@ -25,7 +25,7 @@ I enjoy working across the full security lifecycle — from **secure architectur
 </div>
 
 **Master of Science in Cybersecurity**  
-New York University — *Cyber Fellows Program*
+New York University — *Cyber Fellows Scholars (4.0)*
 
 **Bachelor of Science in Computer Science (Honors)**  
 The City College of New York (CUNY)
