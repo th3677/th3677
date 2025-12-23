@@ -18,6 +18,34 @@ I’m particularly drawn to:
 I enjoy working across the full security lifecycle — from **secure architecture and Infrastructure as Code** to **logging, monitoring, and detection**.
 
 ---
+## 🏢 Professional Experience
+
+### Office of Technology & Innovation (OTI)  
+**Infrastructure & Security Operations**
+
+- Support security operations across **multiple large-scale organizations** in a shared infrastructure environment
+- Work with **network security controls and security telemetry**, including firewalls, DNS infrastructure, proxies, and SIEM tooling
+- Manage access controls and permissions using **cloud-based identity systems (Azure)**
+
+---
+
+### Department of Social Services (DSS)  
+**Security Operations & Detection-Oriented Data Analysis**
+
+- Analyzed security and operational data to identify **patterns, anomalies, and potential indicators of compromise**
+- Explored **machine learning approaches** to improve anomaly detection and signal quality
+- Engineered and refined **Splunk-based alerts** to support effective triage and investigation
+
+---
+
+### Department of Education (DOE)  
+**Systems Support & Operational Foundations**
+
+- Supported enterprise IT environments through **hardware troubleshooting, software installation, and ticket-based resolution**
+- Gained early exposure to **system reliability, user impact, and operational workflows**
+
+---
+
 ## 🎓 Education
 <div>
   <img src="https://img.shields.io/badge/New_York_University-57068C?style=for-the-badge&logo=New-York-University&logoColor=white" />
