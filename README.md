@@ -80,8 +80,7 @@ Long-term, I aim to specialize in **securing large-scale cloud systems** and app
 | SIEM Implementation & Log Analysis | <a href="https://github.com/th3677/SIEM-lab">SIEM Lab</a> |
 | Incident Response Documentation & Analysis | <a href="https://github.com/th3677/incident-response-playbooks">Incident Response Playbooks</a> |
 | Security Automation & Alert Triage | <a href="https://github.com/th3677/soc-automation-lab">SOC Automation Lab</a> |
-| Infrastructure as Code (Terraform) | <a href="https://github.com/th3677/secure-cloud-infra">Terraform Cloud Security Lab</a> |
-| Secure Cloud Architecture (VPC, SGs, WAF) | <a href="https://github.com/th3677/secure-cloud-infra">Secure Cloud Infrastructure Lab</a> |
+| AWS Secure Cloud Architecture (Terraform) | <a href="https://github.com/th3677/secure-cloud-infra">Terraform Cloud Security Lab</a> |
 
 ---
 
