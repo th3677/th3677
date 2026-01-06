@@ -75,7 +75,7 @@ Long-term, I aim to specialize in **securing large-scale cloud systems** and app
 
 | Skill | Associated Project |
 |-----------------------------------------------|----------------------------|
-| Security Telemetry Pipeline & SIEM Detection Engineering | <a href="https://github.com/th3677/security-telemetry-pipeline"</a> |
+| Security Telemetry Pipeline & SIEM Detection Engineering | <a href="https://github.com/th3677/security-telemetry-pipeline"> Telemetry Pipeline Lab</a> |
 | Detection Implementation & Log Analysis | <a href="https://github.com/th3677/SIEM-lab"> Analysis Lab</a> |
 | Malicious Network Analysis & Wireshark HTTP POST Detection | <a href="https://github.com/th3677/malicous-net">Malicious Traffic Investigation Lab</a> |
 | Threat Intelligence Analysis (APTs, TTPs, IoCs) | <a href="https://github.com/th3677/threat-intel">Threat Intelligence</a> |
