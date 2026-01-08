@@ -112,12 +112,11 @@ Long-term, I aim to specialize in **securing large-scale cloud systems** and app
 </div>
 
 ## 📁 Projects
-- **Secure Cloud Infrastructure Lab** – Architected and automated a secure cloud environment using Terraform (VPC, WAF, security groups, logging, monitoring)  
-- **Detection Lab** – SIEM-based threat detection and security telemetry analysis  
-- **Threat Intelligence Notes** – Research and mapping of adversary behavior and indicators  
-- **SOC Automation Lab** – Alert triage and incident response workflows  
-- **Incident Response Playbooks** – Structured response procedures for infrastructure attacks  
-
+- **Insider Threat Detection (NYC DSS Internship)** – Correlated identity, proxy, and session telemetry in Splunk to detect insider-risk scenarios (off-hour access, abnormal data transfer, pre-resignation activity); tuned detections and integrated with SOAR, achieving ~95% alert accuracy for high-confidence alerts
+- **ResearchGroups (Google × Macaulay Experiential Practicum)** – Collobrating on creating a secure, containerized full-stack platform; built with REST APIs, backend services, and workflows for research discovery and collaboration; implemented OAuth authentication, JWT session handling, and role-based access for students, researchers, and admins 
+- **Detection Engineering & Telemetry Pipelines** – Normalized, parsed, and aggregated diverse security logs using modern ETL-style pipelines; worked with middleware tools (Datadog, Logstash, Cribl, BindPlane) to enrich events, improve signal quality, and deliver curated detections, including exposure to YARA-L–based detection logic for behavioral threat identification
+- **Adversary TTP Analysis & Incident Mapping (Counsulting-Style)** – Analyzed real-world incident scenarios by mapping adversary tactics, techniques, and procedures (TTPs) using the MITRE ATT&CK framework; correlated identity, endpoint, and network telemetry to model attacker behavior and align detections and response actions with NIST CSF functions (Detect, Respond, Recover)
+- **SOC Automation & Incident Response Playbooks** – Practiced alert triage, signal validation, and investigation workflows; automated response actions using SOAR playbooks to reduce analyst workload
 ---
 
 ## 🌿 Outside of Tech
